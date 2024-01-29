@@ -1,0 +1,59 @@
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+fieldset{
+    font-family: georgia;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    width:500px;
+}
+form{
+    margin-top:30px;
+}
+h4{
+    margin-right:10px;
+    text-align-last: right;
+    font-family:sans-serif;
+    color:balck;
+}
+img{
+    margin:5px;
+    height:100px;
+    width:100px;
+    border-radius:30px;
+}
+.places{
+    margin-top:50px;
+    font-family: sans-serif;
+    font-size:25px;
+    
+}
+.off{
+    height:300px;
+    width:500px;
+}
+.pack{
+    color:black;
+    padding:5px;
+    margin-top: 50px;
+    margin-left:300px;
+    margin-right:300px;}
+    
+footer{
+    text-align-last: right;
+    margin-top:25px;
+color:black;
+font-family: cursive;
+font-size:30px;}
+.fa-whatsapp{
+    text-decoration: none;
+    color:black;
+}
+.trains{
+    font-family: serif;
+    font-size:25px;
+    margin-top:40px;
+    text-align: center;
+}
